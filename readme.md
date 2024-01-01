@@ -1,6 +1,12 @@
 
 # Password Generator
 
+
+
+https://github.com/king-tri-ton/gen-pass/assets/53092931/a581ebc1-f01f-4e7f-b4cb-a80fca51deb8
+
+
+
 A simple password generator with a system tray icon. This Python script uses the **pystray** library to create a system tray icon. When the user clicks on the icon, it provides the option to generate a random password and copy it to the clipboard.
 
 
